@@ -1,0 +1,5 @@
+adminUser:
+  organization: "filecoin.io"
+  bucket: "chaindata"
+  user: "admin"
+  password: "filecoin"
